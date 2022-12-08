@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+h1 {
+  font-family: cursive;
+  text-align: center;
+  padding: 20px;
+  font-size: larger;
+}
+th {
+  text-align: center !important;
+}
+tr {
+  max-width: 100%;
+}
+.mid {
+  text-align: center;
+}
+.icon:hover {
+  cursor: pointer;
+}
